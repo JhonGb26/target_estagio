@@ -22,3 +22,5 @@ Observe o trecho de código abaixo:
 
 Ao final do processamento, qual será o valor da variável SOMA?
 
+### Resultado: [Resultado da Soma] (https://github.com/JhonGb26/target_estagio/blob/main/test.py)
+
